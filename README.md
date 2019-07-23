@@ -1,3 +1,3 @@
 # hello-world
-just a repository
+just  repository
 new changes
